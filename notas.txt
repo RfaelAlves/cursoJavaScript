@@ -1,0 +1,10 @@
+Operadores lógicos:
+
+Aritiméticos:
+
++ = Adição
+- = Subtração
+* = Multiplicação
+/ = Divisão
+% = Resto
+** = Potência
